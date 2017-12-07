@@ -17,10 +17,7 @@
     "autoload": {
         "psr-0": {
             "Illuminate\\Support": ""
-        },
-        "files": [
-            "Illuminate/Support/helpers.php"
-        ]
+        }
     },
     "target-dir": "Illuminate/Support",
     "extra": {
